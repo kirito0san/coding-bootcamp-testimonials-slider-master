@@ -598,7 +598,7 @@ video {
 }
 
 .bg-pattern-down {
-  background-image: url('./images/pattern-curve.svg');
+  background-image: url('../images/pattern-curve.svg');
 }
 
 .bg-contain {
@@ -697,7 +697,7 @@ video {
   display: flex;
   height: 350px;
   flex-direction: column;
-  background-image: url('./images/pattern-bg.svg');
+  background-image: url('../images/pattern-bg.svg');
   background-size: 300px 330px;
   background-position: center;
   background-repeat: no-repeat;
