@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'pattern': "url('/images/pattern-bg.svg')",
-        'pattern-down': "url('/images/pattern-curve.svg')",
+        'pattern': "url('./images/pattern-bg.svg')",
+        'pattern-down': "url('./images/pattern-curve.svg')",
       },
       colors: {
         Dark_Blue: "hsl(240, 38%, 20%)",
